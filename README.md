@@ -1,5 +1,5 @@
-# MMMU
-Homepage of MMMU, A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI. 
+# VDC
+Homepage of VDC, A Versatile Data Cleanser for Detecting Dirty Samples. 
 
 This website is adapted from [Nerfies website](https://nerfies.github.io) and [MathVista](https://mathvista.github.io/).
 
